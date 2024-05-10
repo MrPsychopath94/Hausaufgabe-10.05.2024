@@ -1,0 +1,14 @@
+{
+  "name": "hausaufgabe-10.05.2024",
+  "version": "1.0.0",
+  "main": "HA 10.05.2024.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "random-string-generator": "^1.0.1"
+  }
+}
